@@ -76,5 +76,7 @@
   "directories": {
     "test": "tests"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@ckeditor/ckeditor5-alignment": "^24.0.0"
+  }
 }
